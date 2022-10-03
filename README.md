@@ -3,8 +3,8 @@
 ## Android Kotlin の基礎
 
 - [x] https://developer.android.com/courses/kotlin-android-fundamentals/overview?hl=ja#lesson_1_build_your_first_app
-　　　　- 終了日時 2022/10/03
-  - 所要時間 15分
+    - 終了日時 2022/10/03
+    - 所要時間 15分
 - [ ] https://developer.android.com/courses/kotlin-android-fundamentals/overview?hl=ja#lesson_2_layouts
 - [ ] https://developer.android.com/courses/kotlin-android-fundamentals/overview?hl=ja#lesson_3_navigation
 - [ ] https://developer.android.com/courses/kotlin-android-fundamentals/overview?hl=ja#lesson_4_activity_and_fragment_lifecycles
