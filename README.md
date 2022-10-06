@@ -22,7 +22,10 @@
     - 終了日時　2022/10/04
     - 所要時間 2時間
     - 理解度 　⭐︎⭐︎⭐︎⭐︎⭐︎
-- [ ] https://developer.android.com/courses/kotlin-android-fundamentals/overview?hl=ja#lesson_6_room_database_and_coroutines
+- [x] https://developer.android.com/courses/kotlin-android-fundamentals/overview?hl=ja#lesson_6_room_database_and_coroutines
+    - 終了日時　2022/10/05
+    - 所要時間 4時間
+    - 理解度 　⭐︎⭐︎⭐︎⭐︎⭐︎
 - [ ] https://developer.android.com/courses/kotlin-android-fundamentals/overview?hl=ja#lesson_7_recyclerview
 - [ ] https://developer.android.com/courses/kotlin-android-fundamentals/overview?hl=ja#lesson_8_connecting_to_the_internet
 - [ ] https://developer.android.com/courses/kotlin-android-fundamentals/overview?hl=ja#lesson_9_repository
